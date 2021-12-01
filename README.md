@@ -14,7 +14,7 @@ Build docker images for each architecture, with version `v1.8.6` and default `la
 make VERSION=v1.8.6 DOCKER=runakash docker-build
 ```
 
-Push docker images
+Push docker images:
 
 ```shell
 make VERSION=v1.8.6 DOCKER=runakash docker-push
