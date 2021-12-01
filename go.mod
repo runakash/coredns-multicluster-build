@@ -1,4 +1,4 @@
-module coredns-multicluster-plugin
+module coredns-multicluster-build
 
 go 1.17
 

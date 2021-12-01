@@ -59,4 +59,4 @@ docker-push:
 .PHONY: clean
 clean:
 	go clean
-	rm -f coredns bin/
+	rm -rf coredns bin/
